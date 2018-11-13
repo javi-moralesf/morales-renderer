@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.App-list {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+}
+
+
+.App-item {
+  height: 450px;
+  min-width: 325px;
+  flex: 1;
+  list-style: none;
+  border: 1px solid #bfbfbf;
+  padding: 8px 8px 50px 8px;
+  margin: 8px;
+}
