@@ -1,6 +1,6 @@
 {
-  "name": "@test/morales-renderer",
-  "version": "0.1.0",
+  "name": "test-morales-renderer",
+  "version": "0.2.0",
   "private": true,
   "dependencies": {
     "node-sass": "^4.10.0",
